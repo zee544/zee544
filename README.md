@@ -112,24 +112,27 @@
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
+  <!-- LinkedIn (Official Blue) -->
   <a href="https://www.linkedin.com/in/thanuja-sewmini-005901374/" target="_blank">
-    <img src="https://img.shields.io/badge/-linkedin-black?style=social&logo=linkedin" height="28" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/thanuja_s" target="_blank">
-    <img src="https://img.shields.io/badge/-twitter-black?style=social&logo=twitter" height="28" />
-  </a>
-  &nbsp;&nbsp;
+  
+  <!-- Portfolio / Vercel (Official Black/White) -->
   <a href="https://portfolio2-lake-five-38.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-portfolio-black?style=social&logo=vercel" height="28" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;
+
+  <!-- Gmail (Official Red) -->
   <a href="mailto:sewmini234@gmail.com">
-    <img src="https://img.shields.io/badge/-gmail-black?style=social&logo=gmail" height="28" />
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
+
+  <!-- GitHub (Official Dark Gray) -->
   <a href="https://github.com/ThanujaSewmini" target="_blank">
-    <img src="https://img.shields.io/badge/-github-black?style=social&logo=github" height="28" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub"/>
   </a>
 </p>
 ---
