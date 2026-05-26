@@ -113,23 +113,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thanuja-sewmini-005901374/" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" width="32" height="32" />
+    <img src="https://img.shields.io/badge/-linkedin-black?style=social&logo=linkedin" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/thanuja_s" target="_blank">
-    <img src="https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=1DA1F2" width="32" height="32" />
+    <img src="https://img.shields.io/badge/-twitter-black?style=social&logo=twitter" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="https://portfolio2-lake-five-38.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-FF5722?style=flat-square&logo=vercel&logoColor=white&labelColor=FF5722" width="32" height="32" />
+    <img src="https://img.shields.io/badge/-portfolio-black?style=social&logo=vercel" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:sewmini234@gmail.com">
-    <img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836" width="32" height="32" />
+    <img src="https://img.shields.io/badge/-gmail-black?style=social&logo=gmail" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ThanujaSewmini" target="_blank">
-    <img src="https://img.shields.io/badge/-100000?style=flat-square&logo=github&logoColor=white&labelColor=100000" width="32" height="32" />
+    <img src="https://img.shields.io/badge/-github-black?style=social&logo=github" height="28" />
   </a>
 </p>
 ---
