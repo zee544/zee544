@@ -16,10 +16,9 @@
       <ul>
         <li>🎓 <strong>Software Engineering Undergraduate</strong> at Sri Lanka Institute of Information Technology</li>
         <li>🌱 Currently learning <strong>Microservices</strong>, <strong>Docker</strong>, and <strong>Kubernetes</strong></li>
-        <li>💬  <strong>MERN stack</strong>, <strong>REST APIs</strong>, and <strong>UI/UX design</strong></li>
+        <li>💬 Passionate about <strong>MERN stack</strong>, <strong>REST APIs</strong>, and <strong>UI/UX design</strong></li>
         <li>📫 How to reach me: <strong>sewmini234@gmail.com</strong></li>
         <li>🌐 Visit my <strong><a href="https://portfolio2-lake-five-38.vercel.app/">Portfolio</a></strong></li>
-      
       </ul>
     </td>
     <td width="40%" align="center">
@@ -109,63 +108,24 @@
 
 
 
-
-
 <!-- Connect Section -->
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/thanuja-sewmini-005901374/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/thanuja-sewmini-005901374/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
-  
-  <!-- Twitter/X -->
-  <a href="https://twitter.com/thanuja_s" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://twitter.com/thanuja_s">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
   </a>
-  
-  <!-- Portfolio -->
-  <a href="https://portfolio2-lake-five-38.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://portfolio2-lake-five-38.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF5722" />
   </a>
-  
-  <!-- Gmail -->
   <a href="mailto:sewmini234@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/ThanujaSewmini" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<!-- Optional: Add more platforms -->
-<p align="center">
-  <!-- Instagram -->
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  
-  <!-- Medium/Blog -->
-  <a href="https://medium.com/@yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  
-  <!-- Discord -->
-  <a href="https://discord.gg/yourinvite" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  
-  <!-- YouTube -->
-  <a href="https://youtube.com/@yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  
-  <!-- Dev.to -->
-  <a href="https://dev.to/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  <a href="https://github.com/ThanujaSewmini">
+    <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />
   </a>
 </p>
 ---
@@ -175,7 +135,7 @@
 <div align="center">
   <b>✨ "Building practical, user-friendly software." ✨</b>
   <br /><br />
-  
+
 </div>
 
 <div align="center">
