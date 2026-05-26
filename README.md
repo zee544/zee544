@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Thanuja+Sewmini;Full-Stack+Developer+%F0%9F%92%BB;Undergraduate+%F0%9F%8E%93;%F0%9F%92%AA%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Thanuja+Sewmini;Full-Stack+Developer+%F0%9F%92%BB;Undergraduate+%F0%9F%8E%93;" alt="Typing SVG" />
 </h1>
 
 <h3 align="center" style="color: #ff6b9d;"> Full-Stack Developer | Software Engineering Undergraduate  ✨</h3>
@@ -16,7 +16,7 @@
       <ul>
         <li>🎓 <strong>Software Engineering Undergraduate</strong> at Sri Lanka Institute of Information Technology</li>
         <li>🌱 Currently learning <strong>Microservices</strong>, <strong>Docker</strong>, and <strong>Kubernetes</strong></li>
-        <li>💬 Passionate about <strong>MERN stack</strong>, <strong>REST APIs</strong>, and <strong>UI/UX design</strong></li>
+        <li>💬 <strong>MERN stack</strong>, <strong>REST APIs</strong>, and <strong>UI/UX design</strong></li>
         <li>📫 How to reach me: <strong>sewmini234@gmail.com</strong></li>
         <li>🌐 Visit my <strong><a href="https://portfolio2-lake-five-38.vercel.app/">Portfolio</a></strong></li>
       </ul>
@@ -32,7 +32,7 @@
 ---
 
 <!-- Skills Section -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center"> Tech Stack & Tools</h2>
 
 <table align="center">
   <tr>
@@ -112,20 +112,24 @@
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thanuja-sewmini-005901374/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+  <a href="https://www.linkedin.com/in/thanuja-sewmini-005901374/" target="_blank">
+    <img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" width="32" height="32" />
   </a>
-  <a href="https://twitter.com/thanuja_s">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/thanuja_s" target="_blank">
+    <img src="https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=1DA1F2" width="32" height="32" />
   </a>
-  <a href="https://portfolio2-lake-five-38.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF5722" />
+  &nbsp;&nbsp;
+  <a href="https://portfolio2-lake-five-38.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-FF5722?style=flat-square&logo=vercel&logoColor=white&labelColor=FF5722" width="32" height="32" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:sewmini234@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+    <img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836" width="32" height="32" />
   </a>
-  <a href="https://github.com/ThanujaSewmini">
-    <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/ThanujaSewmini" target="_blank">
+    <img src="https://img.shields.io/badge/-100000?style=flat-square&logo=github&logoColor=white&labelColor=100000" width="32" height="32" />
   </a>
 </p>
 ---
