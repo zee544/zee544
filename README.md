@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Thanuja+Sewmini;Full-Stack+Developer+%F0%9F%92%BB;Undergraduate+%F0%9F%8E%93;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi++I'm+Thanuja+Sewmini;Full-Stack+Developer;Undergraduate+%F0%9F%8E%93;" alt="Typing SVG" />
 </h1>
 
 <h3 align="center" style="color: #ff6b9d;"> Full-Stack Developer | Software Engineering Undergraduate  ✨</h3>
