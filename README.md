@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi++I'm+Thanuja+Sewmini;Full-Stack+Developer;Undergraduate+%F0%9F%8E%93;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi+,+I'm+Thanuja+Sewmini;Full-Stack+Developer;Undergraduate;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center" style="color: #ff6b9d;"> Full-Stack Developer | Software Engineering Undergraduate  ✨</h3>
+<h3 align="center" style="color: #ff6b9d;"> Full-Stack Developer | Software Engineering Undergraduate  </h3>
 
 
 
@@ -14,17 +14,17 @@
     <td width="60%">
       <h2>📖 About Me</h2>
       <ul>
-        <li>🎓 <strong>Software Engineering Undergraduate</strong> at Sri Lanka Institute of Information Technology</li>
-        <li>🌱 Currently learning <strong>Microservices</strong>, <strong>Docker</strong>, and <strong>Kubernetes</strong></li>
+        <li> <strong>Software Engineering Undergraduate</strong> at Sri Lanka Institute of Information Technology</li>
+        <li> Currently learning <strong>Microservices</strong>, <strong>Docker</strong>, and <strong>Kubernetes</strong></li>
         <li>💬 <strong>MERN stack</strong>, <strong>REST APIs</strong>, and <strong>UI/UX design</strong></li>
-        <li>📫 How to reach me: <strong>sewmini234@gmail.com</strong></li>
+        <li> How to reach me: <strong>sewmini234@gmail.com</strong></li>
         <li>🌐 Visit my <strong><a href="https://portfolio2-lake-five-38.vercel.app/">Portfolio</a></strong></li>
       </ul>
     </td>
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Girl coding" />
       <br />
-      <em>"Code, create ✨"</em>
+      <em>"Code, create "</em>
     </td>
    </tr>
 </table>
