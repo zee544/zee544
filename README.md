@@ -8,7 +8,7 @@
 
 ---
 
-<!-- About Me Section with Card Design -->
+<!-- About Me  -->
 <table width="100%">
   <tr>
     <td width="60%">
@@ -31,7 +31,7 @@
 
 ---
 
-<!-- Skills Section -->
+<!-- Skills -->
 <h2 align="center"> Tech Stack & Tools</h2>
 
 <table align="center">
@@ -113,7 +113,7 @@
 
 
 <div align="center">
-  <b>✨ "Building practical, user-friendly software." ✨</b>
+  <b> "Building practical, user-friendly software." </b>
   <br /><br />
 
 </div>
